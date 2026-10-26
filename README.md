@@ -1,4 +1,4 @@
-# Enrique Gabriel Santos
+# Enrique Gabriel Santos Guadalupe
 
 **AI & Data Science Student · Backend Developer**
 
