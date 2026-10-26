@@ -6,7 +6,11 @@ Building practical software, exploring data, and learning how to turn ideas into
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-gabriel-santos-guadalupe-5b0a852a4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enkikegpe99@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0A7ACC?style=flat-square&logo=vercel&logoColor=white)](https://enrique-guadalupe.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/7_egrf.65/)
+[![Ayuda](https://img.shields.io/badge/Ayuda-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://ayuda.celcx.com/EnriqueGR123)
 
+*Always learning, building, and exploring new ideas.*
 ---
 
 ### About me
