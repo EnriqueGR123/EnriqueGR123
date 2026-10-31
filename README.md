@@ -2,7 +2,6 @@
 
 **AI & Data Science Student · Backend Developer**
 
-Building practical software, exploring data, and learning how to turn ideas into useful solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-gabriel-santos-guadalupe-5b0a852a4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enkikegpe99@gmail.com)
@@ -10,15 +9,12 @@ Building practical software, exploring data, and learning how to turn ideas into
 [![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/7_egrf.65/)
 [![Ayuda](https://img.shields.io/badge/Ayuda-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://ayuda.celcx.com/EnriqueGR123)
 
-*Always learning, building, and exploring new ideas.*
 ---
 
 ### About me
 
 I'm an Artificial Intelligence and Data Science student with a background in IT infrastructure, server support, and troubleshooting.
-
 I'm particularly interested in **backend development, APIs, data analysis, and machine learning**. I enjoy learning by building projects, understanding how systems work, and improving my problem-solving skills along the way.
-
 Currently focused on strengthening my software development foundations and exploring the intersection between backend engineering and AI.
 
 ### Tech stack
@@ -71,15 +67,11 @@ Currently focused on strengthening my software development foundations and explo
 ### Featured projects
 
 **Data Analyzer API**
-
 A REST API for uploading CSV files, analyzing datasets, and generating statistical summaries.
-
 `Python` `FastAPI` `PostgreSQL` `Pandas` `Docker`
 
 **Expense Manager API**
-
 A backend application for managing income and expenses, with data validation, database operations, and schema migrations.
-
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Docker`
 
 **ProLink — Professional Networking Platform**
