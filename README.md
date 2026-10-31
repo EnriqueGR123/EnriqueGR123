@@ -2,7 +2,6 @@
 
 **AI & Data Science Student · Backend Developer**
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enrique-gabriel-santos-guadalupe-5b0a852a4/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:enkikegpe99@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0A7ACC?style=flat-square&logo=vercel&logoColor=white)](https://enrique-guadalupe.vercel.app)
@@ -14,10 +13,10 @@
 ### About me
 
 I'm an Artificial Intelligence and Data Science student with a background in IT infrastructure, server support, and troubleshooting.
-I'm particularly interested in **backend development, APIs, data analysis, and machine learning**. I enjoy learning by building projects, understanding how systems work, and improving my problem-solving skills along the way.
+I'm particularly interested in **backend development, APIs, MLOps, data analysis, and machine learning**. I enjoy learning by building projects, understanding how systems work, and improving my problem-solving skills along the way.
 Currently focused on strengthening my software development foundations and exploring the intersection between backend engineering and AI.
 
-### Tech stack
+### Stack
 
 **Languages**
 
@@ -64,18 +63,19 @@ Currently focused on strengthening my software development foundations and explo
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-### Featured projects
+### Projects
 
 **Data Analyzer API**
 A REST API for uploading CSV files, analyzing datasets, and generating statistical summaries.
+
 `Python` `FastAPI` `PostgreSQL` `Pandas` `Docker`
 
 **Expense Manager API**
 A backend application for managing income and expenses, with data validation, database operations, and schema migrations.
+
 `Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Docker`
 
 **ProLink — Professional Networking Platform**
-
 A full-stack application inspired by LinkedIn, featuring authentication, protected routes, and communication between a React frontend and a Django REST API.
 
 `Django` `React` `PostgreSQL` `JWT`
@@ -88,14 +88,3 @@ A full-stack application inspired by LinkedIn, featuring authentication, protect
 - Software architecture, API design, and backend testing.
 - TypeScript and modern development practices.
 - Exploring PyTorch and MLOps as next steps in my AI journey.
-
-### A little more about me
-
-- 🎓 Studying Artificial Intelligence and Data Science.
-- 🖥️ Background in server support and IT infrastructure.
-- 🧩 I enjoy troubleshooting and understanding how things work.
-- 📚 I believe in continuous learning through hands-on projects.
-
----
-
-*Learning by building. Growing one project at a time.*
