@@ -63,28 +63,3 @@ Currently focused on strengthening my software development foundations and explo
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 
-### Projects
-
-**Data Analyzer API**
-A REST API for uploading CSV files, analyzing datasets, and generating statistical summaries.
-
-`Python` `FastAPI` `PostgreSQL` `Pandas` `Docker`
-
-**Expense Manager API**
-A backend application for managing income and expenses, with data validation, database operations, and schema migrations.
-
-`Python` `FastAPI` `SQLAlchemy` `PostgreSQL` `Alembic` `Docker`
-
-**ProLink — Professional Networking Platform**
-A full-stack application inspired by LinkedIn, featuring authentication, protected routes, and communication between a React frontend and a Django REST API.
-
-`Django` `React` `PostgreSQL` `JWT`
-
-*More projects and experiments coming soon.*
-
-### Currently learning
-
-- Machine learning fundamentals and data analysis.
-- Software architecture, API design, and backend testing.
-- TypeScript and modern development practices.
-- Exploring PyTorch and MLOps as next steps in my AI journey.
